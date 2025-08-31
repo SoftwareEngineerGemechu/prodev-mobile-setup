@@ -16,4 +16,21 @@
 2. The **fix when tabs template is missing**
 3. The **steps for running on device/web**
 
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run android`
+Runs the app in development mode on an Android device or emulator.
+
+### `npm run ios`
+Runs the app in development mode on iOS (requires macOS).
+
+### `npm run web`
+Runs the app in the browser.
+
+### `npm run reset-project`
+Resets the project by clearing caches and rebuilding dependencies.
+
+
 ```bash
